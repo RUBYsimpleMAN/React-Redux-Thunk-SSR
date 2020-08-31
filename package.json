@@ -6,6 +6,7 @@
   "author": "RUBYsimpleMAN <rubysimpleman@gmail.com>",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^7.7.0"
+    "eslint": "^7.7.0",
+    "eslint-config-airbnb": "^18.2.0"
   }
 }
