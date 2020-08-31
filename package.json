@@ -4,5 +4,8 @@
   "main": "index.js",
   "repository": "git@github.com:RUBYsimpleMAN/React-Redux-Thunk-SSR.git",
   "author": "RUBYsimpleMAN <rubysimpleman@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^7.7.0"
+  }
 }
