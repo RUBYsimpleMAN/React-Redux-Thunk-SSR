@@ -5,6 +5,9 @@
   "repository": "git@github.com:RUBYsimpleMAN/React-Redux-Thunk-SSR.git",
   "author": "RUBYsimpleMAN <rubysimpleman@gmail.com>",
   "license": "MIT",
+  "scripts": {
+    "development": "webpack-dev-server --config ./webpack.config.js --mode development"
+  },
   "devDependencies": {
     "@babel/core": "^7.11.4",
     "@babel/plugin-proposal-class-properties": "^7.10.4",
